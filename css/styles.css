@@ -1,0 +1,154 @@
+body {
+  font-family: Roboto, sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 1.333;
+  letter-spacing: 0.02em;
+  color: #434455;
+  background-color: #ffffff;
+}
+
+.link,
+.logo-web {
+  text-decoration: none;
+}
+ul {
+  list-style-type: none;
+}
+.nav-list .link{
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+
+.nav-list .link:hover,
+.nav-list .link:focus {
+  color: #404bbf;
+}
+
+h2 {
+  font-family: Roboto, sans-serif;
+  font-size: 36px;
+  font-weight: 700;
+  line-height: 1.333;
+  letter-spacing: 0.02em;
+}
+
+h3 {
+  font-family: Roboto, sans-serif;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 1.333;
+  letter-spacing: 0.02em;
+}
+
+.button {
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  color: white;
+  border-color: #4d5ae5;
+  background-color: #4d5ae5;
+  cursor: pointer;
+}
+
+.button:hover,
+.button:focus {
+  border-color: #404bbf;
+  background-color: #404bbf;
+}
+
+.address-link{
+  font-style: normal;
+}
+.address-link .link{
+  color: #434455;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+}
+
+.address-link .link:hover,
+.address-link .link:focus {
+  color: #404bbf;
+}
+
+.section-first {
+  background-color: #2e2f42;
+}
+.head-section-first {
+  font-family: Roboto, sans-serif;
+  font-size: 56px;
+  font-weight: 500;
+  line-height: 1.07;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #ffffff;
+}
+.section-second {
+  background-color: #f4f4fd;
+}
+.head-section-second {
+  line-height: 1.2;
+  color: #2e2f42;
+}
+.heads-list {
+  line-height: 1.2;
+  color: #2e2f42;
+}
+
+.text-list {
+  line-height: 1.5;
+}
+.section-tird {
+  background-color: #F4F4FD;
+}
+.head-section-tird {
+  line-height: 1.11;
+  text-align: center;
+  text-transform: capitalize;
+  color: #2e2f42;
+}
+
+.head-list-fourth {
+  line-height: 1.2;
+  color: #2e2f42;
+}
+.text-fourth {
+  line-height: 1.5;
+}
+
+.list-tird {
+  background-color: #FFFFFF;
+}
+
+footer {
+  background-color: #2e2f42;
+}
+
+.text-footer {
+  line-height: 1.5;
+  color: #f4f4fd;
+}
+
+.logo-web {
+  font-family: Raleway, sans-serif;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: #4d5ae5;
+}
+
+.logo-studio-header {
+  color: #2e2f42;
+}
+
+.logo-studio-footer {
+  color: #f4f4fd;
+}
